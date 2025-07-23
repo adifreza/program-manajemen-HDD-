@@ -32,4 +32,4 @@ Aplikasi ini membantu kamu mengelola daftar game yang tersebar di beberapa hardd
 
 ---
 
-Jika ada pertanyaan atau ingin fitur tambahan, silakan hubungi pengembang aplikasi ini. 
+Jika ada pertanyaan atau ingin fitur tambahan, silakan hubungi pengembang aplikasi ini. # program-manajemen-HDD-
