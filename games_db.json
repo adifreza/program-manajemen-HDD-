@@ -1,0 +1,862 @@
+{
+  "hdds": [
+    {
+      "id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9",
+      "name": "HDD 4TB INSTALLED"
+    },
+    {
+      "id": "56353c96-0193-40a5-8efe-00a0b6fddccc",
+      "name": "HDD 4TB (PC GAMES)"
+    },
+    {
+      "id": "ca7a18a8-e46b-4207-aa08-b13326e3965f",
+      "name": "HDD 2TB"
+    },
+    {
+      "id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01",
+      "name": "HDD 1TB A (INSTALLED)"
+    },
+    {
+      "id": "4dee8d4f-050d-4b60-a285-ff7013fdfed9",
+      "name": "HDD 1TB A (GAMES)"
+    },
+    {
+      "id": "57bd7548-efdd-4513-bc18-e5af8e34b593",
+      "name": "HDD 1TB B"
+    },
+    {
+      "id": "7703721d-40ca-48dd-897f-a2795a1163b0",
+      "name": "HDD 1TB C"
+    }
+  ],
+  "games": [
+    {
+      "name": "Assassin Creed Mirage",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Assassins Creed IV Black Flag",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Assassins Creed Syndicate",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Attack on Titan 2",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Battlefield V",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Call of Duty - Black Ops 2",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Call of Duty Black Ops Cold War",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Call of Duty Infinite Warfare",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Dying Light 2 Stay Human",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Dynasty Warriors Origins",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "ELDEN RING",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Final Fantasy VII Rebirth",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Halo Infinite",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Monster Hunter World",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Red Dead Redemption",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Resident Evil - Village",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Resident Evil 2",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Resident Evil 3",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Resident Evil 4 Remake",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Rise of the Ronin",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Sekiro - Shadows Die Twice",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Star Wars Jedi Fallen Order",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "The Last of Us",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "The Sims 4",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "World War Z",
+      "hdd_id": "701a40fd-b4e1-48b4-808f-98ccb8f79de9"
+    },
+    {
+      "name": "Alan Wake 2 [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Alan Wake Remastered - [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Alone in the Dark 2024",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Avowed [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Baldurs Gate 3 [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Banishers Ghosts of New Eden [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Beyond The Darkness [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "BIOMUTANT.GOG-InsaneRamZes",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Bloodborne [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Call of Duty Ghosts - Deluxe Edition [Update 21] - [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Clair Obscur - Expedition 33 [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Days.Gone.GOG",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "DEATH STRANDING DIRECTORS CUT [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Deathbound [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "DeathLoop - [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Dragon Ball Z Kakarot",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Echoes of Yi - Samsara [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Enotria The Last Song [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Final Fantasy XVI [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Flintlock The Siege of Dawn [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Frostpunk 2 [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Ghostrunner.2.Brutal.Edition.MULTi13-ElAmigos",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Halo The Master Chief Collection - [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "HITMAN 2 [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "HITMAN World of Assassination [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Indiana jones",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Judgment [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Lies of P [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Lords of the Fallen [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Marvel Wolverine [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "METAL.GEAR.RISING.REVENGEANCE-GOG",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Mortal Kombat 11 - [DODI]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "MotoGP 24 [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Ninja Gaiden 2 Black [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Outpost - Infinity Siege [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Redemption of Liuyin [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Remnant II [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Remnant.From.the.Ashes.Subject.2923-CODEX",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "RIPOUT.MULTi9-ElAmigos",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Shadow of the Tomb Raider [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "SIFU [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Silent Hill 2 [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Sniper Ghost Warrior 3 - [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "spiderman 2",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "STALKER.Call.of.Pripyat-GOG",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Still Wakes the Deep [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "The Devil in Me [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "The Evil Within 2",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "The Genesis Order [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "The Midnight Walk [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "The Sims 4 [FitGirl Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Trepang2_77.00_(74894)_win_gog",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Uncharted.Legacy.of.Thieves.Collection.GOG",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Unknown 9 Awakening [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Virtua.Fighter.5.REVO.30th.Anniversary.Edition.MULTi9-ElAmigos",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Vladik Brutal [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Witchfire [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "WoLong Fallen Dynasty Deluxe Edition",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "WRC8 fia world rally championship",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "Yakuza Like a Dragon - [DODI Repack]",
+      "hdd_id": "56353c96-0193-40a5-8efe-00a0b6fddccc"
+    },
+    {
+      "name": "A Way Out",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Age of Empires II - Definitive Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Assassin's Creed III",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Batman Arkham City GOTY",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Battlefield 3",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "BLEACH Rebirth of Souls",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Call of Duty - Black Ops 2",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Chained Together",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Crusader Kings 3",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Crysis3Remastered",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Demon Slayer - Kimetsu no Yaiba",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Divinity - Original Sin Enhanced Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Dragon Age - Inquisition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Dragon Quest XI",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Dynasty Warriors Origins",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Fallout 4",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Fallout New Vegas Ultimate Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "FIFA 17",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "FIFA 23",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Football Manager 2023",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Grand Theft Auto V Enhanced",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Greedfall",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "GTA San Andreas - The Definitive Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Jujutsu Kaisen CC",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "JUMANJI The Video Game",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Jump Force",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "King of Fighters XV",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Kingdom Come - Deliverance",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "LEGO Horizon Adventures",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Marvels SpiderMan Miles Morales",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Mass Effect Ultimate Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Max Payne 3",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Monster Hunter Rise",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Monster Hunter Stories 2",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "MotoGP 25",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "NARUTO X BORUTO Ultimate",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Need for Speed Heat",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Need for Speed Payback",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Ni no Kuni - WotWW - Remastered",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Ni no Kuni II - Revenant Kingdom",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "NieR Automata",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Outlast 2",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Red Dead Redemption 2 (INSTALLED)",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Resident Evil 6",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "SAMURAI WARRIORS 4 II",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Sleeping Dogs Definitive Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Sniper Elite 4",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Splinter Cell Blacklist Complete",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Split Fiction",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Tales of Arise",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "TEKKEN 8",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "The Last of Us - Part II Remastered",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "THE LAST REMANT",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "The Legend of Zelda - Breath of the Wild",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "The Witcher 3 - Complete Edition",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "WWE 2K20 Originals",
+      "hdd_id": "ca7a18a8-e46b-4207-aa08-b13326e3965f"
+    },
+    {
+      "name": "Assassin Creed Mirage",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Assassins Creed Odyssey",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Devil May Cry 5",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Forza Horizon 4",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Forza Horizon 5",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Genshin Impact game",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "God of War 2018",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "PES 2021 PATCH NOVEMBER 2025",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "WWE 2K23",
+      "hdd_id": "8bb5f6db-78ef-460d-bb51-18a82f5cfb01"
+    },
+    {
+      "name": "Battlefield_1_--_fitgirl-repacks.site",
+      "hdd_id": "4dee8d4f-050d-4b60-a285-ff7013fdfed9"
+    },
+    {
+      "name": "it takes two",
+      "hdd_id": "4dee8d4f-050d-4b60-a285-ff7013fdfed9"
+    },
+    {
+      "name": "rise of tomb rider",
+      "hdd_id": "4dee8d4f-050d-4b60-a285-ff7013fdfed9"
+    },
+    {
+      "name": "WWE 2K25 [DODI Repack]",
+      "hdd_id": "4dee8d4f-050d-4b60-a285-ff7013fdfed9"
+    },
+    {
+      "name": "Age of Empires III - Definitive Edition",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Assassin's Creed Brotherhood",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Assassins Creed",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Assassins Creed II",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Batman Arkham Asylum GOTY",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Call of Duty - Modern Warfare 3",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Call Of Duty 4",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Call of Duty 4 Modern Warfare",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Call of Duty Black Ops 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Call OF Duty Modern Warfare 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Crysis 2 Remastered",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Crysis Remastered",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "DEAD SPACE 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "DIRT 5",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Euro Truck Simulator 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Far Cry",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Far Cry 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "God of War Ragnarok",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Hitman Blood Money",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "LA Noire",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "LEGO Batman 3 Beyond Gotham",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Marvel SpiderMan 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Medal of Honor Airborne",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Monster Energy Supercross 6",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "NARUTO SHIPPUDEN Ultimate Ninja STORM 2",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Persona 5 Royal",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Prince of Persia - Warrior Within",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Pro Evolution Soccer 2017 Gembox Lite",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Resident Evil 4 Ultimate HD Edition",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "RIDE 5",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Riders Republic",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Suikoden I and II HD Remaster Gate Rune and Dunan Unification Wars",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "System Volume Information",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Triangle Strategy",
+      "hdd_id": "57bd7548-efdd-4513-bc18-e5af8e34b593"
+    },
+    {
+      "name": "Assassins Creed Valhalla",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Atomic Heart (2023)",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Back 4 Blood",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Deathloop",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Far Cry 6",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Gas Station Simulator",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Horizon Forbidden West",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Metal Hellsinger",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Metro Exodus",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Raft",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Shieldwall",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "System Volume Information",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "The Legend of Zelda - TotK",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Tiny Tinas Wonderlands",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    },
+    {
+      "name": "Troublemaker",
+      "hdd_id": "7703721d-40ca-48dd-897f-a2795a1163b0"
+    }
+  ]
+}
